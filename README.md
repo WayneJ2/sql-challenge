@@ -1,7 +1,7 @@
 # SQL-Challenge (Employee Database)
 
 ## Purpose
-To take employee and company information to data engineer an employee database to then run analysis quiries on.
+To take employee and company information to data engineer an employee database to then run analysis queries on.
 
 ## Development Steps
 - First an **_[Employee ERD](https://github.com/WayneJ2/sql-challenge/blob/main/Employee_ERD.PNG)_** was created to map out the creation of the Employee Database.
