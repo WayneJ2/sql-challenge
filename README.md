@@ -9,3 +9,7 @@ To take employee and company information to data engineer an employee database t
 - Third, once the CSV data was imported, **_[Employee Queries](https://github.com/WayneJ2/sql-challenge/blob/main/Employee_sql_queries.sql)_** were used to gather the requested information.
 - Last, **_[Bonus Employee Analysis](https://github.com/WayneJ2/sql-challenge/blob/main/SQL-Challenge_bonus.ipynb)_** was performed in Jupyter Notebook for additional requests.
 
+## Bonus Charts
+1. **[Average Salaries by Title](https://github.com/WayneJ2/sql-challenge/blob/main/Avg_Salaries.png)**
+
+2. **[Most Common Salaries](https://github.com/WayneJ2/sql-challenge/blob/main/Common_Salaries.png)**
